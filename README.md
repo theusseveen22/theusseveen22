@@ -11,3 +11,14 @@ Sou estudante de desenvolvimento Full Stack na trybe [@Trybe](https://www.betryb
 - [Courses] - Php básico (Iped), Banco de dados SQL (SoftBlue), Desenvolvedor S2B (Microsoft). 
 
 - [Portfólio](https://mathlima.com.br/) 💻 - Em desenvolvimento.
+
+- [Projetos] - {
+    StarWarsPlanets: 'https://github.com/tryber/sd-011-project-starwars-planets-search/pull/138/files',
+    
+    TrybeWallet: 'https://github.com/tryber/sd-011-project-trybewallet/pull/125/files',
+
+    ReactTestLibrary: 'https://github.com/tryber/sd-011-project-react-testing-library/pull/131/files',
+}
+
+
+- [Habilidades] - Javascript, React, ContextApi, Redux, Html, Css, Versionamento com Git/GitHub
