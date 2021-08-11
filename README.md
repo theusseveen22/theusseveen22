@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Matheus Lima! :-D
 
-<!--
-**theusseveen22/theusseveen22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/theusseveen22/)
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-lima-dev/)](https://www.linkedin.com/in/matheus-lima-dev/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### About me
+Sou estudante de desenvolvimento Full Stack na trybe [@Trybe](https://www.betrybe.com/).
+
+- [Courses] - Php básico (Iped), Banco de dados SQL (SoftBlue), Desenvolvedor S2B (Microsoft). 
+
+- [Portfólio](https://mathlima.com.br/) 💻 - Em desenvolvimento.
