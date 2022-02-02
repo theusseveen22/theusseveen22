@@ -4,7 +4,9 @@
 
 
 ### About me
-Sou estudante de desenvolvimento Full Stack na trybe [@Trybe](https://www.betrybe.com/).
+Desenvolvedor Web Full Stack.
+
+- [formação] - Desenvolvedor Full Stack - Trybe [@Trybe](https://www.betrybe.com/)
 
 - [Courses] - Php básico (Iped), Banco de dados SQL (SoftBlue), Desenvolvedor S2B (Microsoft). 
 
