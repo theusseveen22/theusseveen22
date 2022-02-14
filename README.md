@@ -10,7 +10,7 @@ Desenvolvedor Web Full Stack.
 
 - [Courses] - Php básico (Iped), Banco de dados SQL (SoftBlue), Desenvolvedor S2B (Microsoft). 
 
-- [Portfólio](https://mathlima.com.br/) 💻 - Em desenvolvimento.
+- [Portfólio](https://matheusdev.website/) 💻
 
 - [Projetos] - {
     StarWarsPlanets: 'https://github.com/tryber/sd-011-project-starwars-planets-search/pull/138/files',
@@ -21,4 +21,4 @@ Desenvolvedor Web Full Stack.
 }
 
 
-- [Habilidades] - Javascript, React, ContextApi, Redux, Html, Css, Versionamento com Git/GitHub
+- [Habilidades] - Javascript, React, ContextApi, Redux, Html, Css, Versionamento com Git/GitHub, node.js, express, socket.io, python. 
