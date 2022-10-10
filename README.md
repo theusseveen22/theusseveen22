@@ -8,18 +8,18 @@ Desenvolvedor Web Full Stack.
 
 - [formação] - Desenvolvedor Full Stack - Trybe [@Trybe](https://www.betrybe.com/)
 
-- [Courses] - Php básico (Iped), Banco de dados SQL (SoftBlue), Desenvolvedor S2B (Microsoft). 
+- [Courses] - Banco de dados SQL (SoftBlue), Desenvolvedor S2B (Microsoft). 
 
 - [Portfólio](https://matheusdev.website/) 💻
 
-- [Projetos] - {
-    StarWarsPlanets: 'https://github.com/tryber/sd-011-project-starwars-planets-search/pull/138/files',
+- [Projetos Recentes] - {
+    Pokedex: 'https://github.com/theusseveen22/pokedexapi',
     
-    TrybeWallet: 'https://github.com/tryber/sd-011-project-trybewallet/pull/125/files',
+    Kpis Pesquisa: 'https://github.com/theusseveen22/kpisapp',
 
-    ReactTestLibrary: 'https://github.com/tryber/sd-011-project-react-testing-library/pull/131/files',
+    Marvel Busca: 'https://github.com/theusseveen22/marvelsearch',
 }
 
 
-- [Habilidades] - Javascript, React, ContextApi, Redux, Html, Css, Versionamento com Git/GitHub, node.js, express, socket.io, python. 
+- [<b>Habilidades</b>] - Javascript, React, ContextApi, Redux, Html, Css, Versionamento com Git/GitHub, node.js, express, socket.io, python, JavaEE, SpringBoot, SpringMVC
 
